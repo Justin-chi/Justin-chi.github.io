@@ -2,23 +2,25 @@
 #
 
 # Site settings
-title: Spectral
+title: 逆光之地
 description: |
-  Another fine responsive  
-  site template freebie  
-  crafted by [HTML5 UP](http://html5up.net)
+  总想找一个地方静静地写些什么，于是就留在了这里  
+  迟刚的博客笔记  
+  生活 工作 游记 感悟  
+
 owner: Chi Gang(Justin) # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
 email: chigang@huawei.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 social:
-  twitter: https://twitter.com/<username>
+  #twitter: https://twitter.com/nonoazoro
   github: https://github.com/Justin-chi
-  linkedin-square: https://linkedin.com/in/<username>
-  facebook-official: https://facebook.com/<username>
-  google-plus-square: https://plus.google.com/u/0/+<username>
-  #email: /contact/
+  #weibo: https://weibo.com/chigang
+  #linkedin-square: https://linkedin.com/in/<username>
+  #facebook-official: https://facebook.com/<username>
+  #google-plus-square: https://plus.google.com/u/0/+<username>
+  #email: chigang@huawei.com
   #flickr:
   #instagram:
   #youtube-square:
@@ -35,7 +37,6 @@ social:
   #angellist:
   #tumblr-square:
   #stackexchange:
-  #weibo:
   #trello:
   #foursquare:
   #linux:
